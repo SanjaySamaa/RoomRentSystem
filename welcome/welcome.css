@@ -1,0 +1,44 @@
+
+.description{
+    margin-top: 0px;
+ border-width: 2px;
+ border-style: solid;
+ background-color: #dfe6e9;
+ border-radius: 5px;
+
+    display: flex;
+    background-color: #dfe6e9;
+
+}
+.about{
+    padding: 20px;
+    height:20vh;
+    width: 48vw;
+    border-right:2px solid black ;
+}
+.contact{
+padding: 20px;
+    height: 20vh;
+    width: 50vw;
+}
+.email,.insta{
+    font-weight: bold;
+}
+.desc{
+    font-size: 20px;
+}
+.welcome{
+    background-color: #dfe6e9;
+    margin-bottom: 0px;
+}
+.welcome h2{
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 50px;
+    font-style: initial;
+  font-weight: 700;
+}
+/* .imagebox{
+    margin: 0px 2%;
+    /* background-color: #dfe6e9; */
+/* } */ 

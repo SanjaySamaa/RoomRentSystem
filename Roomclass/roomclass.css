@@ -1,0 +1,68 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.room-menu{
+    background-color: #ececec;
+    padding: 2% 0;
+}
+.room-menu-box{
+    width: 43%;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+    background-color: white;
+    border-radius: 15px;
+    border: 2px solid rgb(17, 2, 2);
+}
+
+.room-menu-img{
+    width: 25%;
+    float: left;
+}
+
+.room-menu-desc{
+    width: 50%;
+    float: right;
+    margin-left: 8%;
+}
+
+.room-price{
+    font-size: 1.2rem;
+    margin: 2% 0;
+}
+.room-detail{
+    font-size: 1rem;
+    color: #747d8c;
+}
+.img-responsive{
+    width: 100%;
+}
+.img-curve{
+    border-radius: 15px;
+}
+.btn{
+    padding: 1%;
+    border: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.btn-primary{
+    background-color: #b4848b;
+    color: white;
+    cursor: pointer;
+}
+.btn-primary:hover{
+    color: white;
+    background-color: #493537;
+}
+.img{
+   width: 15vw;
+    height: 25vh;
+}

@@ -1,0 +1,98 @@
+body{
+    background-color: antiquewhite;
+}
+.user{
+    display: flex;
+    grid-row: auto;
+    margin: 20px;
+    justify-content: center;
+}
+.changepassword{
+    display: flex;
+    /* background-color: aqua; */
+    margin: 10px;
+    justify-content: center;
+    vertical-align: center;
+    text-align: center;
+    width: 30vw;
+    padding: 10px;
+    height: 60vh;
+    border: 5px solid rgb(217, 217, 221);
+    background-color:rgb(245, 245, 245);
+    border-radius: 5px;
+}
+.changename{
+    display: flex;
+    background-color: rgb(245, 245, 245);
+    margin: 10px;
+    width: 30vw;
+    justify-content: center;
+    vertical-align: center;
+    text-align: center;
+    padding: 10px;
+    height: 60vh;
+    border: 5px solid rgb(217, 217, 221);
+    border-radius: 5px;
+}
+.changeemail{
+    display: flex;
+    background-color: rgb(245, 245, 245);
+    margin: 10px;
+    width: 30vw;
+    justify-content: center;
+    vertical-align: center;
+    text-align: center;
+    padding: 10px;
+    height: 60vh;
+    border: 5px solid rgb(217, 217, 221);
+    border-radius: 5px;
+    
+    
+}
+.submitemail,.submitpassword,.submitname{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.cnewpassword{
+    margin-left: -60px;
+    font-weight: bold;
+}
+.opassword{
+    margin-right: 4px;    font-weight: bold;
+}
+.oldpassword{
+    margin: 5px;
+
+}
+.newpassword{
+    margin: 5px;    font-weight: bold;
+
+}
+.confirmnewpassword{
+    margin: 5px;
+}
+.fname{
+    margin: 5px;
+}
+.lname{
+    margin: 5px;
+}
+.email{
+    margin: 5px;
+}
+.submitemail{
+margin-left: 60px;
+}
+.submitpassword{
+    margin-left: 110px;
+}
+.submitname{
+    margin-left: 110px;
+}
+.changeemail label{
+    font-weight: bold;
+}
+.changename label{
+    font-weight: bold;
+}
